@@ -1,0 +1,68 @@
+
+#headMenu{
+    background: url('../img/Menu 2.jpg');
+    background-size: 100%;
+
+    }
+#headMenu #logo{
+    padding:20px;
+    margin-bottom: 0.2px; 
+    background: white;
+}
+
+button{
+    background: none;
+    border:none;
+}
+button:hover,w3-dropdown-content:hover{
+    background: #0b5c89;
+    color:white;
+}
+#twitter{
+    max-height: 600px !important;
+    height: 400px !important;
+    overflow-x: scroll
+}
+section{
+    height: 500px;
+    background-color: rgba(255,255,255,0.6)
+}
+body {
+    background-image: url('../img/hexagonal-pattern_1051-833.jpg');
+}
+div{
+    text-align: center;
+    border-width: 50px    
+}
+
+a{
+    height: 50px;
+    height: 20%;
+    text-decoration: none;
+}
+
+#menu{
+    height: 50px;
+    border: 1px solid gray;
+    background-color: white;
+}
+
+#autor{
+    margin: auto;
+    margin-top: 20px;
+    display:bloque;
+    padding: 20px;
+    border:1px solid gray;
+    width: 350px
+}
+
+li{
+    text-align:justify;
+}
+
+#aside{
+    text-align: justify;
+}
+
+
+    
